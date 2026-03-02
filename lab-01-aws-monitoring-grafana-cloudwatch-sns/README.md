@@ -8,13 +8,7 @@ Este projeto segue as boas práticas do **AWS Well-Architected Framework**, com 
 
 # 🎯 Objetivo
 
-Implementar uma solução de observabilidade capaz de monitorar recursos críticos da infraestrutura AWS, permitindo:
-
-- Monitoramento em tempo real
-- Visualização centralizada de métricas
-- Identificação rápida de falhas
-- Análise de performance e disponibilidade
-- Suporte a arquiteturas altamente disponíveis
+**Implementar uma solução de observabilidade capaz de monitorar recursos críticos da infraestrutura AWS, permitindo**: Monitoramento em tempo real Visualização centralizada de métricas; Identificação rápida de falhas; Análise de performance e disponibilidade e Suporte a arquiteturas altamente disponíveis.
 
 ---
 
@@ -33,33 +27,12 @@ AWS Resources
 
 Este laboratório monitora os seguintes serviços AWS:
 
-- Amazon EC2  
-  - CPU Utilization  
-  - Network In / Out  
-  - Status Checks  
-
-- Auto Scaling Group  
-  - Desired Capacity  
-  - Instances in Service  
-  - Scaling events  
-
-- Application Load Balancer  
-  - Request Count  
-  - Latency  
-  - Healthy Hosts  
-
-- Amazon RDS  
-  - Read / Write Latency  
-  - IOPS  
-  - Database Connections  
-
-- Amazon CloudFront  
-  - Requests  
-  - Error Rates (4xx / 5xx)  
-  - Traffic volume  
-
-- AWS Certificate Manager (ACM)  
-  - Monitoramento de expiração de certificados SSL/TLS  
+- **Amazon EC2**: CPU Utilization; Network In / Out e Status Checks  
+- **Auto Scaling Group**: Desired Capacity; Instances in Service e Scaling events  
+- **Application Load Balancer**: Request Count; Latency e Healthy Hosts.  
+- **Amazon RDS**: Read/Write Latency; IOPS e Database Connections  
+- **Amazon CloudFront**: Requests; Error Rates (4xx/5xx) e Traffic volume  
+- **AWS Certificate Manager (ACM)**: Monitoramento de expiração de certificados SSL/TLS  
 
 ---
 
