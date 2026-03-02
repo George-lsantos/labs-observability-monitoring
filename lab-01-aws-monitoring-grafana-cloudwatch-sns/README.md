@@ -67,31 +67,31 @@ Este laboratório monitora os seguintes serviços AWS:
 
 ## Monitoramento EC2
 
-![Grafana EC2](evidencias/grafana-ec2.png)
+![Grafana EC2](evidencias/EC2.png)
 
 ---
 
 ## Monitoramento CloudFront
 
-![Grafana CloudFront](evidencias/grafana-cloudfront.png)
+![Grafana CloudFront](evidencias/cloudfront.png)
 
 ---
 
 ## Monitoramento Auto Scaling
 
-![Grafana Auto Scaling](evidencias/grafana-asg.png)
+![Grafana Auto Scaling](ASG.png)
 
 ---
 
 ## Monitoramento RDS
 
-![Grafana RDS](evidencias/grafana-rds.png)
+![Grafana RDS](evidencias/AWS-RDS.png)
 
 ---
 
 ## Monitoramento ACM
 
-![Grafana ACM](evidencias/grafana-acm.png)
+![Grafana ACM](evidencias/ACM.png)
 
 ---
 
