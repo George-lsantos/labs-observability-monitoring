@@ -141,7 +141,7 @@ https://github.com/George-lsantos/Laboratorios-Cloud-AWS/tree/main/lab-16-aws-wo
 
 # 👨‍💻 Autor
 
-George Luís dos Santos  
+George Luís dos Santos.  
 
 AWS Cloud | DevOps | Observability | Solutions Architect (em formação)
 
