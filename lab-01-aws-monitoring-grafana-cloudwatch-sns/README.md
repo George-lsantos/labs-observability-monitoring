@@ -1,7 +1,4 @@
----
-
 # 📊 Monitoramento e Observabilidade com Grafana
-
 Como parte desta arquitetura, foi implementado um sistema completo de observabilidade utilizando o Grafana integrado ao Amazon CloudWatch.
 
 Isso permite monitorar em tempo real todos os recursos da infraestrutura, incluindo:
