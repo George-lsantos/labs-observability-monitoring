@@ -47,13 +47,6 @@ Isso permite monitorar em tempo real todos os recursos da infraestrutura, inclui
 
 ---
 
-## 🔗 Repositório completo
-
-Projeto desenvolvido para fins de estudo e demonstração de arquitetura AWS:
-
-https://github.com/George-lsantos/Laboratorios-Cloud-AWS/tree/main/lab-16-aws-wordpress-ha-efs-rds
-
----
 
 ## 👨‍💻 Autor
 
