@@ -79,7 +79,7 @@ Este laboratório monitora os seguintes serviços AWS:
 
 ## Monitoramento Auto Scaling
 
-![Grafana Auto Scaling](ASG.png)
+![Grafana Auto Scaling](evidencias/ASG.png)
 
 ---
 
